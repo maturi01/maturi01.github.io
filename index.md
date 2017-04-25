@@ -5,3 +5,7 @@
 *foo* **bar**
 
 https://www.google.com/
+
+*a
+*b
+*c
